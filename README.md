@@ -1,6 +1,3 @@
-
----
-
 # Starbucks Website Clone
 
 A clean front end clone of the Starbucks landing page built using HTML and CSS.
